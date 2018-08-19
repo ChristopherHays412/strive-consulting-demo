@@ -1,0 +1,29 @@
+{
+  "name": "strive-consulting",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "component-playground": "^3.2.0",
+    "copy-button": "^2.0.0",
+    "rc-animate": "^2.4.4",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.2",
+    "react-ckeditor-component": "^1.1.0",
+    "react-codemirror": "^1.0.0",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.4.2",
+    "react-live": "^1.11.0",
+    "react-scripts": "1.1.4",
+    "react-simple-animate": "^1.9.8",
+    "react-simple-code-editor": "^0.6.0",
+    "react-smooth-collapse": "^1.5.0",
+    "react-transition-group": "^1.2.1",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,14 @@
+.App {
+  text-align: left;
+}
+button {
+  position: relative;
+  display: inline-block;
+  padding: 12px;
+  margin: 5px 0 10px 0;
+  font-size: .85rem;
+  font-family: 'Latos', sans-serif;
+  border-radius: 5px;
+  border: 1px solid #333;
+  background-color: #fff;
+}
